@@ -1,0 +1,4 @@
+D:/Tibor/University/Second Semester/PF/pf-bst/cmake-build-debug/CMakeFiles/Assessment_2.dir
+D:/Tibor/University/Second Semester/PF/pf-bst/cmake-build-debug/CMakeFiles/PartB.dir
+D:/Tibor/University/Second Semester/PF/pf-bst/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Tibor/University/Second Semester/PF/pf-bst/cmake-build-debug/CMakeFiles/rebuild_cache.dir
