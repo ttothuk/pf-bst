@@ -36,7 +36,7 @@ int main(int argc, char **argv) {
 
     }
 
-    //reads a word from file
+    //reads a word from a file
     while (file >> new_word) {
         // https://www.geeksforgeeks.org/removing-punctuations-given-string
         // removing punctuations
