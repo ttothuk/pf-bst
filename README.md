@@ -22,4 +22,3 @@ After building it, typing "PartB <filename.txt>" will run partB.
 (<filename.txt> needs to be replaced by the absolute or relative path of a file.)
 
 "nmake clean" will delete all .obj, .exe and .lib files.
-
